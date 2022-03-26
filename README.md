@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gorakhcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gorakhcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gorakh-gupta-556064143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gorakh-gupta-556064143/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gorakh-gupta-556064143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gorakh-gupta-556064143/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/projectdecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/projectdecoder" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gorakh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gorakh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gorakh999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gorakh999" height="30" width="40" /></a>
