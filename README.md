@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gorakhcodes" target="blank"><img src="https://img.shields.io/twitter/follow/gorakhcodes?logo=twitter&style=for-the-badge" alt="gorakhcodes" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and doing stuffs in ** Python **.
 
 - 💬 Ask me about **Python, C, C++, SQL**
 
